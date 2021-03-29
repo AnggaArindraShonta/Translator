@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Translator</string>
+
+        <!--- Google Language Names -->
+        <string name="English_google">"English"</string>
+        <string name="Indonesian_google">"Indonesian"</string>
+
+</resources>
